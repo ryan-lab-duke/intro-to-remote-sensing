@@ -1,0 +1,5 @@
+Some nice practicals from ESA
+https://www.learn-eo.org/lessons.php
+
+Potential textbook
+https://webapps.itc.utwente.nl/librarywww/papers_2009/general/PrinciplesRemoteSensing.pdf
