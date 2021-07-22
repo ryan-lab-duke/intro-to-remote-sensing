@@ -1,0 +1,17 @@
+Some nice practicals from ESA
+https://www.learn-eo.org/lessons.php
+
+Potential textbook
+https://webapps.itc.utwente.nl/librarywww/papers_2009/general/PrinciplesRemoteSensing.pdf
+
+NASA's ARSET program
+Session 2B: Satellites, Sensors, and Earth Systems Models for Water Resources Management
+https://www.youtube.com/watch?v=MISLC--HNxo&ab_channel=NASAVideo
+https://appliedsciences.nasa.gov/sites/default/files/Fund.of%20RS%20-%20Session2B-Water%20Resources.pdf
+
+Some useful information for satellites
+https://yceo.yale.edu/faq-page
+
+Intro to QGIS
+https://nates-intro-to-qgis.readthedocs.io/en/latest/basics.html
+
