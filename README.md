@@ -1,16 +1,14 @@
-# GEOG 485/585 (Fall 2021) Remote Sensing I #
+# GEOG 485/585 Remote Sensing I (Fall 2021)
 
 Geog 4/585 is an introduction to remote sensing - the acquisition of data about the world from afar. Often this is in the form of digital imagery acquired by aircraft or satellites, but a variety of other types of remote sensing exist and are discussed in the class.
 
 The course provides an overview of the physical science principles involved in remote sensing, the instruments and platforms used to collect data, and the analysis/visualization of the acquired information. Topics include data acquisition and pre-processing, image enhancement,  data classification and visualization. The emphasis of the class is on pixel-based raster spectral data (such as satellite or drone imagery), and other types of remote sensing information - such as lidar, radar, and structure-from-motion (SfM) are also addressed in lectures and lab exercises.
 
-This repository contains course materials for GEOG485. The lecture notes are in the form of interactive [Jupyter Notebooks](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/What%20is%20the%20Jupyter%20Notebook.html).
+## Instructors and Office Hours
 
-## Instructors and Office Hours ##
+**Instructor:** Johnny Ryan (Assistant Professor) |  jryan4@uoregon.edu
 
-**Instructor:** Johnny Ryan |  jryan4@uoregon.edu
-
-**Office Hours:**  Wednesdays 11 tp 11:50am and 1:30 to 2:45pm,
+**Office Hours:**  Wednesdays 11 tp 11:50am and 1:30 to 2:45pm
 
 Sign up for individual 15 minute time slots via ...
 If meeting times are full, or these weekly time periods do not work for you, please email Johnny for a different appointment time.
@@ -18,24 +16,18 @@ If meeting times are full, or these weekly time periods do not work for you, ple
 **GE/Lab Instructor:** XXX XXX (xxx@uoregon.edu)
 **Office Hours:** Tuesdays 10:00 - 11:30 am
 
-## Syllabus and Schedule ##
+## Syllabus
 
-The links below will render the notebooks via the [nbviewer](http://nbviewer.jupyter.org/) service, which allows some of the fancy interactive graphics to be viewed online. If you browse directly to the notebooks on github, they may not show up properly. So please use these links.
+The syllabus can be downloaded [here](https://github.com/JohnnyRyan1/intro-to-remote-sensing/blob/master/syllabus/Syllabus.doc).
 
-### Foundations
-* [1: Ocean Bathymetry](http://nbviewer.jupyter.org/github/rabernat/intro_to_physical_oceanography/blob/master/lectures/01_ocean_bathymetry.ipynb)
-* 2: Physical Properties of Seawater
-  * [2a: Thermodynamics of Seawater](http://nbviewer.jupyter.org/github/rabernat/intro_to_physical_oceanography/blob/master/lectures/02-a_thermodynamics_of_seawater.ipynb)
-  * [2b: The Water Column](http://nbviewer.jupyter.org/github/rabernat/intro_to_physical_oceanography/blob/master/lectures/02-b_the_water_column.ipynb)
-  * [2c: Global Temperature Salinity and Stratification](http://nbviewer.jupyter.org/github/rabernat/intro_to_physical_oceanography/blob/master/lectures/02-c_ocean_temperature_salinity_stratification.ipynb)
-* [3: Air-Sea Interaction](http://nbviewer.jupyter.org/github/rabernat/intro_to_physical_oceanography/blob/master/lectures/03_air_sea_exchange.ipynb)
-* [4: Advection, Diffusion, and Continuity](http://nbviewer.jupyter.org/github/rabernat/intro_to_physical_oceanography/blob/master/lectures/04_advection_diffusion_continuity.ipynb)
-### Dynamics
-* [Equations of motion](http://nbviewer.jupyter.org/github/rabernat/intro_to_physical_oceanography/blob/master/lectures/05_equations_of_motion.ipynb)
-* [Hydrostatic and Geostrophic Balance](http://nbviewer.jupyter.org/github/rabernat/intro_to_physical_oceanography/blob/master/lectures/06_hydrostatic_geostrophic.ipynb)
-* [Ekman Transport and Pumping](http://nbviewer.jupyter.org/github/rabernat/intro_to_physical_oceanography/blob/master/lectures/07_ekman.ipynb)
-* [Vorticity and Sverdrup Balance](http://nbviewer.jupyter.org/github/rabernat/intro_to_physical_oceanography/blob/master/lectures/vorticity_sverdrup_transport_and_gyres.ipynb)
-* [Theory of deep ocean circulation](http://nbviewer.jupyter.org/github/rabernat/intro_to_physical_oceanography/blob/master/lectures/AMOC_theory.ipynb)
+## Overview of weekly assignments
+
+### Week 1
+
+* [Short lecture assignment](https://github.com/JohnnyRyan1/intro-to-remote-sensing/blob/master/assignments/week_1/remote_sensing_questions.txt)
+* [Lab 1 - Remote Sensing Data](https://github.com/JohnnyRyan1/intro-to-remote-sensing/blob/master/assignments/week_1/lab.txt)
+
+### Week 2
 
 ## Run the lecture notes interactively ##
 
