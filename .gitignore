@@ -1,3 +1,16 @@
 .~lock.Syllabus.doc#
 textbooks/
 instructor_materials/
+examples/
+*.TIF
+*.tif
+*.tif.aux.xml
+*.TIF.aux.xml
+*.laz
+*.las
+*.doc
+student_surveys
+
+labs/all_data/
+
+reading
