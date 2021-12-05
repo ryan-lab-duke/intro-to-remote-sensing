@@ -9,6 +9,7 @@ examples/
 *.laz
 *.las
 *.doc
+*.doc#
 student_surveys
 
 labs/all_data/
