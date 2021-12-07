@@ -10,6 +10,8 @@ examples/
 *.las
 *.doc
 *.doc#
+*.pptx
+
 student_surveys
 
 labs/all_data/
